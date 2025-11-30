@@ -70,4 +70,5 @@ https://medium.com/@mashrurauwad/a-deep-dive-into-sales-insights-using-power-bi-
 
 **Credit**
 Analyst: Mashrur Auwad
+
 Thanks to my instructor Dr. Karim Mohammed Rezaul & Edulink for guidance and learning opportunity and thus enhancing my deep knowledge in Data Analytics.
