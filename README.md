@@ -65,3 +65,9 @@ https://public.tableau.com/shared/7D3PF4PMM?:display_count=n&:origin=viz_share_l
 - This dashboard helps identify where the company should push high-margin products and where operational cost issues may exist.
 
 ---
+# Find my Medium blog in the following link:
+https://medium.com/@mashrurauwad/a-deep-dive-into-sales-insights-using-power-bi-and-tableau-ca50bde1a1f9
+
+**Credit**
+Analyst: Mashrur Auwad
+Thanks to my instructor Dr. Karim Mohammed Rezaul & Edulink for guidance and learning opportunity and thus enhancing my deep knowledge in Data Analytics.
